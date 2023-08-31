@@ -1,4 +1,4 @@
-diabetes_repo
+
 This project makes use of the pandas, seaborn and matplotlib libraries.
 
 ## Aim
@@ -8,7 +8,7 @@ This project makes use of the pandas, seaborn and matplotlib libraries.
 - Test the performance of the chosen machine learning algorithms.
 - Compare the models against each other based on the performance , especially on true negative and true positive performance.
 
-  ## End Result
-  - The Random Forest Classifier algorithm model provides the highest level of accuracy with 97.48 %.
+## End Result
+- The Random Forest Classifier algorithm model provides the highest level of accuracy with 97.48 %.
 
     
