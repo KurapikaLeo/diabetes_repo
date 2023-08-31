@@ -12,3 +12,4 @@ This project makes use of the pandas, seaborn and matplotlib libraries.
 - The Random Forest Classifier algorithm model provides the highest level of accuracy with 97.48 %.
 
     
+![image](https://github.com/KurapikaLeo/diabetes_repo/assets/101999591/4fdc8d8d-fd8f-4094-9592-b11b9c1646fd)
